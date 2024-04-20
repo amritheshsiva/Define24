@@ -7,8 +7,8 @@ The template repository for definehack2024
 The primary goal of the project is to reduce food waste by facilitating the donation of surplus food from individuals, businesses, and other organizations to those in need, such as food banks, shelters, and community kitchens.
 
 ### Team Members
-[1.Amrithesh S] (https://github.com/amritheshsiva)   
-[2.Astle Aloysius] (https://github.com/astlealoysius)   
+[1.Amrithesh S](https://github.com/amritheshsiva)   
+[2.Astle Aloysius](https://github.com/astlealoysius)   
 [3.Vaibhav Jayakumar](https://github.com/speedypail)      
 
 ### Link to Project
